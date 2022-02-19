@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AliShan85/Calculator-in-React-Js.git/static/css/main.ba96ac00.css",
-    "main.js": "/AliShan85/Calculator-in-React-Js.git/static/js/main.3c0f3977.js",
-    "static/js/787.a174f9e5.chunk.js": "/AliShan85/Calculator-in-React-Js.git/static/js/787.a174f9e5.chunk.js",
-    "index.html": "/AliShan85/Calculator-in-React-Js.git/index.html",
-    "main.ba96ac00.css.map": "/AliShan85/Calculator-in-React-Js.git/static/css/main.ba96ac00.css.map",
-    "main.3c0f3977.js.map": "/AliShan85/Calculator-in-React-Js.git/static/js/main.3c0f3977.js.map",
-    "787.a174f9e5.chunk.js.map": "/AliShan85/Calculator-in-React-Js.git/static/js/787.a174f9e5.chunk.js.map"
+    "main.css": "/AliShan85/static/css/main.ba96ac00.css",
+    "main.js": "/AliShan85/static/js/main.dccf823e.js",
+    "static/js/787.a174f9e5.chunk.js": "/AliShan85/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/AliShan85/index.html",
+    "main.ba96ac00.css.map": "/AliShan85/static/css/main.ba96ac00.css.map",
+    "main.dccf823e.js.map": "/AliShan85/static/js/main.dccf823e.js.map",
+    "787.a174f9e5.chunk.js.map": "/AliShan85/static/js/787.a174f9e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba96ac00.css",
-    "static/js/main.3c0f3977.js"
+    "static/js/main.dccf823e.js"
   ]
 }
