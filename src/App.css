@@ -1,0 +1,80 @@
+*
+{
+  margin: 0px;
+  padding: 0px;
+}
+.App {
+  text-align: center;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.calculator
+{
+   margin-top: 150px;
+   margin-bottom: 20px;
+}
+input
+{
+  width: 24rem;
+  height: 10rem;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  text-align: center;
+  font-size: 30px;
+  color: #F0F0F0;
+  background-image: linear-gradient(#eecda3,#ef629f);
+  border: 0px solid;
+  outline: none;
+}
+.cal-btn
+{
+  width: 6rem;
+  height: 6rem;
+  font-size: 30px;
+  background-color: #F0F0F0;
+  display:inline-block;
+  border: none;
+  cursor: pointer;
+}
+.symboles
+{
+  color: #ef629f;
+}
+.backspace
+{
+  width: 9rem;
+  height: 6rem;
+}
+.cal-btn:hover{
+  color:#F0F0F0;
+  background-color:#f6abb6;
+}
+.touchDeviceHover:hover
+{
+  color:#F0F0F0;
+  background-color:#f6abb6;
+}
+@media only screen and (max-width:600px) {
+
+  input
+{
+  width: 20rem;
+  height: 10rem;
+}
+  .cal-btn
+  {
+    width:5rem;
+    height:5rem;
+  }
+  .backspace
+  {
+    width: 7.5rem;
+    height: 5rem;
+  }
+ 
+}
