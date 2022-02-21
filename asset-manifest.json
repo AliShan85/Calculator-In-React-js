@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AliShan85/Calculator-in-React-Js/static/css/main.ba96ac00.css",
-    "main.js": "/AliShan85/Calculator-in-React-Js/static/js/main.6dea3637.js",
-    "static/js/787.a174f9e5.chunk.js": "/AliShan85/Calculator-in-React-Js/static/js/787.a174f9e5.chunk.js",
-    "index.html": "/AliShan85/Calculator-in-React-Js/index.html",
-    "main.ba96ac00.css.map": "/AliShan85/Calculator-in-React-Js/static/css/main.ba96ac00.css.map",
-    "main.6dea3637.js.map": "/AliShan85/Calculator-in-React-Js/static/js/main.6dea3637.js.map",
-    "787.a174f9e5.chunk.js.map": "/AliShan85/Calculator-in-React-Js/static/js/787.a174f9e5.chunk.js.map"
+    "main.css": "/Calculator-in-React-Js/static/css/main.3f15bb18.css",
+    "main.js": "/Calculator-in-React-Js/static/js/main.11d51447.js",
+    "static/js/787.a174f9e5.chunk.js": "/Calculator-in-React-Js/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/Calculator-in-React-Js/index.html",
+    "main.3f15bb18.css.map": "/Calculator-in-React-Js/static/css/main.3f15bb18.css.map",
+    "main.11d51447.js.map": "/Calculator-in-React-Js/static/js/main.11d51447.js.map",
+    "787.a174f9e5.chunk.js.map": "/Calculator-in-React-Js/static/js/787.a174f9e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba96ac00.css",
-    "static/js/main.6dea3637.js"
+    "static/css/main.3f15bb18.css",
+    "static/js/main.11d51447.js"
   ]
 }
